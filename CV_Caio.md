@@ -10,7 +10,7 @@
 
 ## Resumo Profissional
 
-Desenvolvedor Backend com experiência em Python e construção de aplicações e automações corporativas. Atuação no desenvolvimento de soluções do zero utilizando APIs REST, bancos de dados relacionais e não relacionais, Docker e versionamento com Git. Experiência com organização de projetos, boas práticas de código e integração entre sistemas. Buscando oportunidade como Desenvolvedor Python Backend Júnior/Pleno para atuar na construção de sistemas escaláveis e bem estruturados.
+Desenvolvedor Backend com experiência em Python no desenvolvimento de aplicações e automações corporativas de alto impacto. Atuação na construção de soluções do zero utilizando APIs REST, bancos relacionais e não relacionais, Docker e versionamento com Git. Experiência em organização de código, boas práticas, integração entre sistemas e otimização de processos com redução comprovada de horas operacionais. Buscando oportunidade como Desenvolvedor Python Backend Júnior/Pleno para atuar na construção de sistemas escaláveis e bem estruturados.
 
 ## Competências Técnicas
 
@@ -60,7 +60,7 @@ Jul/2025 – Atual_
 
 - Versionamento e organização de código seguindo boas práticas.
 
-- Aplicações utilizadas por toda a equipe interna com redução de trabalho de até 2 dias com um script simples
+- Desenvolvimento de automação que reduziu em até 2 dias o tempo operacional de atividades recorrentes da equipe.
 
 ### Freelancer – Desenvolvimento Python & Automação
 
@@ -77,7 +77,7 @@ _Out/2024 – Jun/2025_
 _Automação e Desenvolvimento Python
 Fev/2023 – Set/2024_
 
-- Desenvolvimento de aplicação interna do zero utilizando Python, MongoDB e Docker.
+- Desenvolvimento de aplicação interna do zero utilizando Python, MongoDB e Docker, com estruturação de arquitetura modular e organização de camadas.
 
 - Criação de integrações entre sistemas para automação de chamados.
 
